@@ -1,8 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1px"
-     height="1px" viewBox="-0.5 -0.5 1 1"
-     content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-04-15T16:58:14.004Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36&quot; etag=&quot;9hHl-fft3fX4wfAVMn7f&quot; version=&quot;14.6.0&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;23iRSUPoRavnBvh4doch&quot; name=&quot;Page-1&quot;&gt;dZHBEoIgEIafhjtCZZ3N6tLJQ2dGNmEGXQdptJ4+HTBjrJk97H77Lz8shGf1cLaiVVeUYAijciD8SBhLNoyRKah8epLSrQeV1TKIFlDoFwRIA31oCV0kdIjG6TaGJTYNlC5iwlrsY9kdTezaigpWoCiFWdOblk55umfpwi+gKzU7J7uD79RiFoeXdEpI7L8QzwnPLKLzWT1kYKblzXvxc6c/3c/FLDTux8CYLGePRfRDPH8D&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="642px" height="262px" viewBox="-0.5 -0.5 642 262" content="&lt;mxfile&gt;&lt;diagram id=&quot;23iRSUPoRavnBvh4doch&quot; name=&quot;Page-1&quot;&gt;5VZNb6MwEP01SN1DpWCvaHMspGz30FNX2rMDA1gymHWdhPTX7xibr0DUrpRtK/UC9vObLzPzhEejsvmhWF08yhSER1Zp49GNR0jgU3wa4GiBNVlZIFc8tZA/AE/8BRzY0XY8hecJUUspNK+nYCKrChI9wZhS8jClZVJMo9YshxnwlDAxR3/zVBcWvSU3A/4APC+6yH6wticl68iukueCpfIwgui9RyMlpbarsolAmLvr7sXaxWdO+8QUVPotBsQa7JnYudo8Egg0DWuTnT66koM/O5NSWDKV88qjd6u66bfXWtYIfW8hDY2+ZoLnhpVgGqAQHTzgKnfvNs62AyLBDbvDMeftKRex+hQrlEm0a5Euin8+4L8UJiDTfWVLLkPTPhxE6iMN17+OdV/BVi3wyJz3OasqQRcy9a9Mpt9eL87SyZXlRI69YDitlkzSJntQmuOc3dn+2bSNFbpu2ti8Q4msTLRTk3HsZhpmstJOJXzi9jEruTD68gBiD8aruVZdCkPqY5uA0JwdHr8fSZQykFikOiLFGdy4IXYq5q/d/jBoArl1WDHSAxI4kDkdynvXw6jiwk3r8uTSD59cPgJYaT6UmO9+GjcZS6CHpyan881Po5hGi8+Kxtj9pWVjFvVdlSNeoF5OPP5/bW/Qj3jJ4mtJCF2/riGUXEhDcDv8WbRno98zev8X&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
-    <g/>
+    <g>
+        <rect x="0" y="0" width="280" height="260" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 282px; height: 260px; padding-top: 0px; margin-left: 0px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 280px; height: 260px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Cliente
+                                    </b>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + field1: Type
+                                    <br/>
+                                    + field2: Type
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + method1(Type): Type
+                                    <br/>
+                                    + method2(Type, Type): Type
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="0" y="12" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Cliente...
+                </text>
+            </switch>
+        </g>
+        <rect x="320" y="0" width="320" height="260" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 322px; height: 260px; padding-top: 0px; margin-left: 320px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 320px; height: 260px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <i>
+                                        &lt;&lt;Interface&gt;&gt;
+                                    </i>
+                                    <br/>
+                                    <b>
+                                        Interface
+                                    </b>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + field1: Type
+                                    <br/>
+                                    + field2: Type
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + method1(Type): Type
+                                    <br/>
+                                    + method2(Type, Type): Type
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="320" y="12" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    &lt;&lt;Interface&gt;&gt;...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
 </svg>
