@@ -1,6 +1,6 @@
-## Cliente Factura
+# Cliente Factura
 
-# Subtítulo
+## Subtítulo
 
 ![](DiagramaClienteFactura/DiagramaClienteFactura.drawio.svg)
 
